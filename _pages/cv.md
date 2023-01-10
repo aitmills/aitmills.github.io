@@ -11,31 +11,78 @@ redirect_from:
 
 Education
 ======
-* Bachelor in Applied Information Systems, Western Institute of Technology Taranaki, 2008
-* Post Graduate Diplomia in Petroleum Engineering, Heriot Watt University, 2018
-* Masters in Data Science, James Cook University, 2023
+### 2023 - James Cook University
+Masters in Data Science
+Online
+
+### 2018 - Heriot Watt University
+Post Graduate Diploma in Petroleum Engineering
+Online
+
+### 2008 - Western Institute of Technology at Taranaki
+Bachelor of Applied Information Systems
+New Plymouth, NZ
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Sr Scientific Developer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+AspenTech Subsurface Science & Engineering
+
+Brisbane, Australia
+
+Mar 2018 - Present
+
+-   Designing, Prototyping, testing and documenting of software solutions
+-   Provide technical advisory and project management to aid feature development
+-   Working under minimal directions to apply advanced discipline research to scientific programming and algorithm development support for subsurface application development
+
+### Sr QA Geoscientist
+
+AspenTech Subsurface Science & Engineering
+
+Brisbane, Australia
+
+Mar 2014 - Mar 2018
+
+-   Petroleum Engineering and Petrophysical software testing
+-   Tier 2 Support - solving the difficult problems for external stakeholders
+-   Assisting with R&D software documentation
+
+### Petrophysical Engineer
+
+Greymouth Petroleum
+
+New Plymouth, NZ
+
+Dec 2010 - Jan 2014
+
+-   Petrophysical geoscience interpretation & operational coordination.
+
+### Well Engineer
+
+Greymouth Petroleum
+
+New Plymouth, NZ
+
+Jan 2007 - Dec 2010
+
+-   Optimized data acquisition procedures and generated reports
+-   Supervised field data acquisition
+-   Supported drilling and well intervention teams with fact checked information
+-   Translated upper management requests into formal work programs
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+-   Geoscience
+-   Petroleum Engineering
+-   Data Science
+-   Data Management
+-   Collaboration with stakeholders
+-   Continuous learning and improvement
 
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+### 2017 - Internal Hackathon - Best in domain
+AspenTech Subsurface Science & Engineering (Paradigm)

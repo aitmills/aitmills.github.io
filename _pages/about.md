@@ -15,6 +15,7 @@ Hi! I am:
  - A technology enthusiast
  - A lawn care enthusiast 
 
+I'm OK with there not being a straight forward answer to everything. I constantly sharpen my analytical skills in the hopes that when shit hits the fan my accumulated judgement will lead me to more right decisions than wrong decisions.
 
 
 
