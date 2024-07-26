@@ -26,13 +26,18 @@ New Plymouth, NZ
 
 Work experience
 ======
+### Petrophysicist
+Shell QGC
+Brisbane, Australia
+-   Coal seam gas well data acquisition, QC, interpretation and reporting 
+-	Data workflow optimisation & automation
+-   Statisical data analysis and action recommendation
+
 ### Sr Scientific Developer
 
 AspenTech Subsurface Science & Engineering
-
 Brisbane, Australia
-
-Mar 2018 - Present
+Mar 2018 - 2023
 
 -   Designing, Prototyping, testing and documenting of software solutions
 -   Provide technical advisory and project management to aid feature development
@@ -41,11 +46,8 @@ Mar 2018 - Present
 ### Sr QA Geoscientist
 
 AspenTech Subsurface Science & Engineering
-
 Brisbane, Australia
-
 Mar 2014 - Mar 2018
-
 -   Petroleum Engineering and Petrophysical software testing
 -   Tier 2 Support - solving the difficult problems for external stakeholders
 -   Assisting with R&D software documentation
